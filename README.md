@@ -60,8 +60,14 @@ career opportunities.
 ---
 
 ## Repository Structure
-BushidoForge/ ├── labs/ # Hands-on exercises and lab notes ├── notes/ # Study notes organized by topic │ └── linux/ # Linux command line notes ├── reports/ # Weekly summaries and reflections ├── scripts/ # Scripts I write while learning └── tools/ # Tools and utilities
-
+```text
+BushidoForge/
+├── labs/              # Hands-on exercises and lab notes
+├── notes/             # Study notes organized by topic
+│   └── linux/         # Linux command line notes
+├── reports/           # Weekly summaries and reflections
+├── scripts/           # Scripts I write while learning
+└── tools/             # Tools and utilities```
 
 ## What I Want to Achieve
 
