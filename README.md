@@ -47,16 +47,17 @@ career opportunities.
 
 ---
 
-## Current Focus (November 2026)
+## Current Focus
+
+Journey started: September 2026.
 
 | Topic | Resource | Progress |
 |-------|----------|----------|
-| Linux Command Line | William Shotts "The Linux Command Line" | Chapter 1-2 |
-| Basic Navigation | Practice on Kali Linux VM | In progress |
-| Git/GitHub | GitHub documentation, trial commits | Learning |
-| Python Basics | None yet | Planned |
+| Linux Command Line | William Shotts "The Linux Command Line" | Chapter 4 |
+| Linux Security Labs | PATH hijacking, sudo hardening | Labs 001–002 |
+| Git/GitHub | Daily practice | In progress |
 | Networking Fundamentals | None yet | Planned |
-
+| OT/ICS fundamentals | Modbus, Purdue model (reading) | Planned |
 ---
 
 ## Repository Structure
